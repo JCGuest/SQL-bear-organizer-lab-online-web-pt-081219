@@ -1,2 +1,3 @@
 INSERT INTO bears 
-(name, age, gender, color, temperament, alive)
+(name, age, gender, color, temperament, alive);
+VALUES 
